@@ -38,7 +38,7 @@
     object-fit: cover;
     border-radius: 10px;
     opacity: .7;
-
+    box-shadow: none;
 }
 .freeSwiper>.swiper-wrapper>.swiper-slide>span{
     width: 100%;
