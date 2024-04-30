@@ -1578,6 +1578,7 @@ button.swiper-pagination-bullet {
     justify-content: center;
     align-items: center;
     padding: 40px 0 80px;
+    background: radial-gradient(100% 410.68% at 100% 100%,rgba(0,0,0,0) 0,rgba(0,29,13,.54) 53.55%,rgba(0,0,0,0) 100%);
   }
   .filimoMain {
     width: 70%;
